@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ВычислениеВыражения", "ВычислениеВыражения\ВычислениеВыражения.csproj", "{7BE31A2B-FC15-4392-9D61-0D3572CCA57E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BE31A2B-FC15-4392-9D61-0D3572CCA57E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BE31A2B-FC15-4392-9D61-0D3572CCA57E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BE31A2B-FC15-4392-9D61-0D3572CCA57E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BE31A2B-FC15-4392-9D61-0D3572CCA57E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66B4D480-6358-4E75-9DF2-688F51C2341C}
+	EndGlobalSection
+EndGlobal
